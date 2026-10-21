@@ -55,7 +55,7 @@ Public types: `start` / `CaptureHandle` (capture), `Fft`, `WaveScope` / `Envelop
 ## Building from source
 
 ```sh
-git clone https://github.com/xandwr/termwaves
+git clone https://github.com/xandwrp/termwaves
 cd termwaves
 cargo run            # runs the client (default member)
 ```
